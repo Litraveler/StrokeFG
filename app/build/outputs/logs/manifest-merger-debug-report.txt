@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/9570f34841c72a34d773388f89286f55/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/0cb9ff486f5edb59977e253831b932c8/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/939730d5a02951a4e6900dbf39441da5/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/9a6fa3c553e02b3a07c8a8565588eb54/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/47185ad723d232e6208c03e6fdcb34a4/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/f76237f51a0f7e63bcb3c74d5b185ef8/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/8eb429c297537d6ea02c3f7824ce56bd/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/36dcb862f7bd88dade6a96bc3b9a35c6/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/b234a824af7fd98a5c54fc0522824a91/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/dade9b59ee5981570bbd8ef7443af33a/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/27ffe024b65d36df19e13f551b6b146c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/512febfd0468b29d551bd267612a464f/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/96d0ad977091c6484e2db42674538c87/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/9a82a1a22af6402c2242c9ee80e8919f/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:7:22-63
+application
+ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:9:5-29:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/9570f34841c72a34d773388f89286f55/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/9570f34841c72a34d773388f89286f55/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/b234a824af7fd98a5c54fc0522824a91/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/b234a824af7fd98a5c54fc0522824a91/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:15:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/b234a824af7fd98a5c54fc0522824a91/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.screen.TouchGestureActivity
+ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:16:9-67
+	android:name
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:16:19-55
+activity#com.example.screen.SelectionInterface
+ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:17:9-22:20
+	android:name
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:17:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml
+INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/9570f34841c72a34d773388f89286f55/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/9570f34841c72a34d773388f89286f55/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/0cb9ff486f5edb59977e253831b932c8/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/0cb9ff486f5edb59977e253831b932c8/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/939730d5a02951a4e6900dbf39441da5/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/939730d5a02951a4e6900dbf39441da5/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/9a6fa3c553e02b3a07c8a8565588eb54/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/9a6fa3c553e02b3a07c8a8565588eb54/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/47185ad723d232e6208c03e6fdcb34a4/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/47185ad723d232e6208c03e6fdcb34a4/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/f76237f51a0f7e63bcb3c74d5b185ef8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/f76237f51a0f7e63bcb3c74d5b185ef8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/8eb429c297537d6ea02c3f7824ce56bd/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/8eb429c297537d6ea02c3f7824ce56bd/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/36dcb862f7bd88dade6a96bc3b9a35c6/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/36dcb862f7bd88dade6a96bc3b9a35c6/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/b234a824af7fd98a5c54fc0522824a91/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/b234a824af7fd98a5c54fc0522824a91/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/dade9b59ee5981570bbd8ef7443af33a/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/dade9b59ee5981570bbd8ef7443af33a/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/27ffe024b65d36df19e13f551b6b146c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/27ffe024b65d36df19e13f551b6b146c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/512febfd0468b29d551bd267612a464f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/512febfd0468b29d551bd267612a464f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/96d0ad977091c6484e2db42674538c87/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/96d0ad977091c6484e2db42674538c87/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/9a82a1a22af6402c2242c9ee80e8919f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/musiccode/.gradle/caches/transforms-2/files-2.1/9a82a1a22af6402c2242c9ee80e8919f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml
+INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml
+		ADDED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/musiccode/自由手势App/authentication_screen/app/src/main/AndroidManifest.xml

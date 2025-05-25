@@ -1,0 +1,17 @@
+com/example/screen/DrawView.java
+ com.example.screen.DrawView
+com/example/screen/BuildConfig.java
+ com.example.screen.BuildConfig
+com/example/screen/SensorDataLogger.java
+ com.example.screen.SensorDataLogger
+com/example/screen/SelectionInterface.java
+ com.example.screen.SelectionInterface
+ com.example.screen.SelectionInterface$1
+ com.example.screen.SelectionInterface$2
+com/example/screen/SIZE.java
+ com.example.screen.SIZE
+com/example/screen/TouchEventLogger.java
+ com.example.screen.TouchEventLogger
+com/example/screen/TouchGestureActivity.java
+ com.example.screen.TouchGestureActivity
+ com.example.screen.TouchGestureActivity$1
